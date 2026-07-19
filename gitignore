@@ -1,0 +1,14 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Data (keep large/private data out of the repo)
+data/*.csv
+data/*.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
